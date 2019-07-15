@@ -13,3 +13,7 @@ npm install
 npm start
 npm run build
 ```
+
+## Glitch Source
+* [Link to Glitch App](https://anton-karlovskiy-network-aware-data-fetching-for-glitch.glitch.me)
+* [Link to Project on Glitch](https://glitch.com/~anton-karlovskiy-network-aware-data-fetching-for-glitch)
